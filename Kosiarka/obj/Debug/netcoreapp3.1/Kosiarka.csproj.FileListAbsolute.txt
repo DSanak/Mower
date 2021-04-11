@@ -1,0 +1,13 @@
+D:\Projekty Visual Studio\Kosiarka\bin\Debug\netcoreapp3.1\Kosiarka.exe
+D:\Projekty Visual Studio\Kosiarka\bin\Debug\netcoreapp3.1\Kosiarka.deps.json
+D:\Projekty Visual Studio\Kosiarka\bin\Debug\netcoreapp3.1\Kosiarka.runtimeconfig.json
+D:\Projekty Visual Studio\Kosiarka\bin\Debug\netcoreapp3.1\Kosiarka.runtimeconfig.dev.json
+D:\Projekty Visual Studio\Kosiarka\bin\Debug\netcoreapp3.1\Kosiarka.dll
+D:\Projekty Visual Studio\Kosiarka\bin\Debug\netcoreapp3.1\Kosiarka.pdb
+D:\Projekty Visual Studio\Kosiarka\obj\Debug\netcoreapp3.1\Kosiarka.csprojAssemblyReference.cache
+D:\Projekty Visual Studio\Kosiarka\obj\Debug\netcoreapp3.1\Kosiarka.AssemblyInfoInputs.cache
+D:\Projekty Visual Studio\Kosiarka\obj\Debug\netcoreapp3.1\Kosiarka.AssemblyInfo.cs
+D:\Projekty Visual Studio\Kosiarka\obj\Debug\netcoreapp3.1\Kosiarka.csproj.CoreCompileInputs.cache
+D:\Projekty Visual Studio\Kosiarka\obj\Debug\netcoreapp3.1\Kosiarka.dll
+D:\Projekty Visual Studio\Kosiarka\obj\Debug\netcoreapp3.1\Kosiarka.pdb
+D:\Projekty Visual Studio\Kosiarka\obj\Debug\netcoreapp3.1\Kosiarka.genruntimeconfig.cache
